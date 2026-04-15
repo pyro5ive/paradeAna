@@ -1,0 +1,462 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1440038774,
+          30.0019273721
+        ]
+      },
+      "properties": {
+        "UCRGroup": "21",
+        "Class": "Drugs / Narcotics Violation",
+        "IRNumber": "B-02633-16",
+        "Crime": "POSS OF DRUG PARAPHERNALIA",
+        "LocationType": "HWY/ROAD/ALLEY",
+        "AddressOfCrime": "19XX VETERANS, METAIRIE, LA 70003",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1440038774",
+        "YCoordinate": "30.0019273721",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 23:18:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.73",
+        "label": "Drugs / Narcotics Violation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1623692078,
+          29.9973898867
+        ]
+      },
+      "properties": {
+        "UCRGroup": "21",
+        "Class": "Drugs / Narcotics Violation",
+        "IRNumber": "B-02528-16",
+        "Crime": "POSS MARIJUANA 1ST OFFENSE",
+        "LocationType": "HWY/ROAD/ALLEY",
+        "AddressOfCrime": "I, XX METAIRIE, LA, 70001",
+        "Accuracy": "Intersection",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1623692078",
+        "YCoordinate": "29.9973898867",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 20:36:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.76",
+        "label": "Drugs / Narcotics Violation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.16236585052154,
+          29.99739137615314
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-03967-16",
+        "Crime": "THEFT UNDER $750 - 67C",
+        "LocationType": "HWY/ROAD/ALLEY",
+        "AddressOfCrime": "I, XX METAIRIE, LA, 70001",
+        "Accuracy": "Intersection",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.16236585052154",
+        "YCoordinate": "29.99739137615314",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 20:30:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.76",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1880146621,
+          30.0055575741
+        ]
+      },
+      "properties": {
+        "UCRGroup": "20",
+        "Class": "Alcohol Violation",
+        "IRNumber": "B-02494-16",
+        "Crime": "SALE ALCOHOL PERSONS UNDER 21",
+        "LocationType": "RESTAURANT",
+        "AddressOfCrime": "46XX VETERANS, METAIRIE, LA 70006",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1880146621",
+        "YCoordinate": "30.0055575741",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 19:32:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.97",
+        "label": "Alcohol Violation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.15709363746652,
+          30.00306936952451
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-02466-16",
+        "Crime": "THEFT OF GOODS UNDER 500 - 67S",
+        "LocationType": "DEPT / DISCOUNT STORE",
+        "AddressName": "DILLARDS",
+        "AddressOfCrime": "33XX VETERANS, METAIRIE, LA 70003",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.15709363746652",
+        "YCoordinate": "30.00306936952451",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 18:40:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.26",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1763039293,
+          30.0015969689
+        ]
+      },
+      "properties": {
+        "UCRGroup": "9",
+        "Class": "Assault - Simple",
+        "IRNumber": "B-02404-16",
+        "Crime": "DOM ABUSE BATT - STRANGULATION",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressOfCrime": "29XX LAKE VILLA DR E, METAIRIE, LA 70006",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1763039293",
+        "YCoordinate": "30.0015969689",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 17:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.31",
+        "label": "Assault - Simple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1833230118164,
+          30.005264204467764
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-02364-16",
+        "Crime": "THEFT OF GOODS UNDER 500 - 67S",
+        "LocationType": "DEPT / DISCOUNT STORE",
+        "AddressName": "TARGET",
+        "AddressOfCrime": "45XX VETERANS, METAIRIE, LA 70006",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1833230118164",
+        "YCoordinate": "30.005264204467764",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 16:04:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.69",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1439749901,
+          30.0022409088
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-02228-16",
+        "Crime": "ID THEFT VAL $1000 +",
+        "LocationType": "GOV. PUBLIC BLDG",
+        "AddressName": "ST. ANGELA MERICI CHURCH",
+        "AddressOfCrime": "18XX VETERANS, METAIRIE, LA 70005",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1439749901",
+        "YCoordinate": "30.0022409088",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 14:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.73",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1570990882,
+          30.003068338
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-02213-16",
+        "Crime": "THEFT OF GOODS - 67S",
+        "LocationType": "DEPT / DISCOUNT STORE",
+        "AddressName": "DILLARD'S",
+        "AddressOfCrime": "33XX VETERANS, ME, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1570990882",
+        "YCoordinate": "30.003068338",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 13:20:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.26",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.15127563476562,
+          30.00322723388672
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-02517-16",
+        "Crime": "THEFT OF GOODS UNDER 500 - 67S",
+        "LocationType": "DEPT / DISCOUNT STORE",
+        "AddressName": "K-MART",
+        "AddressOfCrime": "29XX VETERANS, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.15127563476562",
+        "YCoordinate": "30.00322723388672",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 12:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.32",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1634181937,
+          30.0087400467
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-03336-16",
+        "Crime": "THEFT $5000-$25000",
+        "LocationType": "GROCERY/SUPERMAKET",
+        "AddressName": "IDEAL MARKET",
+        "AddressOfCrime": "38XX HESSMER AV, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1634181937",
+        "YCoordinate": "30.0087400467",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 11:35:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.52",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.15710062822265,
+          30.00306831098633
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-02136-16",
+        "Crime": "THEFT OF GOODS 500 - 1500 - 67S",
+        "LocationType": "DEPT / DISCOUNT STORE",
+        "AddressName": "MACY'S",
+        "AddressOfCrime": "33XX VETERANS, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.15710062822265",
+        "YCoordinate": "30.00306831098633",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 11:30:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.26",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1275048435,
+          30.0011890386
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-03159-16",
+        "Crime": "ID THEFT VAL $1000 +",
+        "LocationType": "BANK SAVINGS + LOAN",
+        "AddressName": "INVESTAR BANK",
+        "AddressOfCrime": "5XX VETERANS, METAIRIE, LA 70005",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1275048435",
+        "YCoordinate": "30.0011890386",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 10:30:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.69",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1550405211,
+          30.0123453212
+        ]
+      },
+      "properties": {
+        "UCRGroup": "22",
+        "Class": "Disorderly Conduct",
+        "IRNumber": "U72191",
+        "Crime": "LITTERING",
+        "AddressOfCrime": "N CAUSEWAY BV DR & MELVIL DEWEY",
+        "Accuracy": "Intersection",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1550405211",
+        "YCoordinate": "30.0123453212",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 07:45:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.41",
+        "label": "Disorderly Conduct"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1256332397461,
+          30.001615524291992
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-02372-16",
+        "Crime": "THEFT UNDER $750 - 67C",
+        "LocationType": "RESTAURANT",
+        "AddressOfCrime": "3XX VETERANS, METAIRIE, LA 70005",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1256332397461",
+        "YCoordinate": "30.001615524291992",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-02-03 05:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.80",
+        "label": "Theft"
+      }
+    }
+  ]
+}

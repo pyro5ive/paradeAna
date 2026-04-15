@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1646180209,
+          30.0101203151
+        ]
+      },
+      "properties": {
+        "UCRGroup": "17",
+        "Class": "Burglary from Motor Vehicle",
+        "IRNumber": "B-18836-17",
+        "Crime": "BURGLARY AUTO OVER 500",
+        "LocationType": "PARKING LOT / GARAGE",
+        "AddressOfCrime": "37XX STEFANO ST, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1646180209",
+        "YCoordinate": "30.0101203151",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-22 21:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.62",
+        "label": "Burglary from Motor Vehicle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1570990882,
+          30.003068338
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-18611-17",
+        "Crime": "THEFT OF GOODS 500 - 1500",
+        "LocationType": "SPECIALTY STORE",
+        "AddressName": "APPLE",
+        "AddressOfCrime": "33XX VETERANS, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1570990882",
+        "YCoordinate": "30.003068338",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-22 20:30:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.26",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1570990882,
+          30.003068338
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-18562-17",
+        "Crime": "THEFT OF GOODS - 67S",
+        "LocationType": "DEPT / DISCOUNT STORE",
+        "AddressName": "DILLARD'S",
+        "AddressOfCrime": "33XX VETERANS, ME, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1570990882",
+        "YCoordinate": "30.003068338",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-22 19:36:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.26",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1763972878,
+          29.9981928001
+        ]
+      },
+      "properties": {
+        "UCRGroup": "11",
+        "Class": "Burglary - Residential",
+        "IRNumber": "B-19181-17",
+        "Crime": "SIMPLE BURGLARY - 62C",
+        "LocationType": "HWY/ROAD/ALLEY",
+        "AddressOfCrime": "25XX PASADENA AV, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1763972878",
+        "YCoordinate": "29.9981928001",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-22 16:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.39",
+        "label": "Burglary - Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.15203663974609,
+          30.001078882714843
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-18201-17",
+        "Crime": "THEFT OF GOODS UNDER 500 - 67S",
+        "LocationType": "GROCERY/SUPERMAKET",
+        "AddressName": "ROUSES",
+        "AddressOfCrime": "29XX VETERANS, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.15203663974609",
+        "YCoordinate": "30.001078882714843",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-22 12:30:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.41",
+        "label": "Theft"
+      }
+    }
+  ]
+}

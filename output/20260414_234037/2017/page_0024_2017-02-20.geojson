@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1240792719,
+          30.0069737053
+        ]
+      },
+      "properties": {
+        "UCRGroup": "24",
+        "Class": "Vandalism",
+        "IRNumber": "B-17462-17",
+        "Crime": "SIMP CRIM DAMAGE 500 TO 50000",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressName": "CNR APARTMENTS",
+        "AddressOfCrime": "12XX LAKE AV, METAIRIE, LA 70005",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1240792719",
+        "YCoordinate": "30.0069737053",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-20 21:30:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.86",
+        "label": "Vandalism"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1517518619,
+          30.0114463684
+        ]
+      },
+      "properties": {
+        "UCRGroup": "20",
+        "Class": "Alcohol Violation",
+        "IRNumber": "B-16895-17",
+        "Crime": "DIST PEACE DRUNK",
+        "LocationType": "PARKING LOT / GARAGE",
+        "AddressOfCrime": "30XX MELVIL DEWEY DR, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1517518619",
+        "YCoordinate": "30.0114463684",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-20 20:03:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.40",
+        "label": "Alcohol Violation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.15914916992188,
+          30.009323120117188
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-16796-17",
+        "Crime": "THEFT OF GOODS UNDER 500 - 67S",
+        "LocationType": "SPECIALTY STORE",
+        "AddressName": "LITTLE MISS MUFFIN",
+        "AddressOfCrime": "33XX SEVERN AV, METAIRIE, LA 70001",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.15914916992188",
+        "YCoordinate": "30.009323120117188",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-20 17:35:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.31",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1570990882,
+          30.003068338
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-16690-17",
+        "Crime": "THEFT $5000-$25000",
+        "LocationType": "SPECIALTY STORE",
+        "AddressOfCrime": "33XX VETERANS, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1570990882",
+        "YCoordinate": "30.003068338",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-20 15:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.26",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.170600755,
+          29.9978341754
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-16582-17",
+        "Crime": "THEFT UNDER $750",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressOfCrime": "39XX S I-10 SERVICE RD, METAIRIE, LA 70001",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.170600755",
+        "YCoordinate": "29.9978341754",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-20 13:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.10",
+        "label": "Theft"
+      }
+    }
+  ]
+}

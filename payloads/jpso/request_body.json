@@ -5,8 +5,8 @@
         "value": []
     },
     "date": {
-        "start": "01/01/2026",
-        "end": "03/31/2026"
+        "start": "03/05/2026",
+        "end": "03/05/2026"
     },
     "agencies": [],
     "layers": {
@@ -41,7 +41,7 @@
             }, {
                 "selected": true
             }, {
-                "selected": false
+                "selected": true
             }, {
                 "selected": true
             }, {

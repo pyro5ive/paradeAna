@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1666625543,
+          29.9995921651
+        ]
+      },
+      "properties": {
+        "UCRGroup": "9",
+        "Class": "Assault - Simple",
+        "IRNumber": "A-26490-16",
+        "Crime": "DOMESTIC ABUSE BATTERY",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressOfCrime": "37XX BRANDYWINE, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1666625543",
+        "YCoordinate": "29.9995921651",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-31 21:45:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.83",
+        "label": "Assault - Simple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1591296666,
+          30.0101290111
+        ]
+      },
+      "properties": {
+        "UCRGroup": "27",
+        "Class": "All Other - Criminal",
+        "IRNumber": "V44158",
+        "Crime": "OBSTRUCT/IMPEDE/INHIBIT PARADE",
+        "AddressOfCrime": "SEVERN ST & 16TH AV",
+        "Accuracy": "Intersection",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1591296666",
+        "YCoordinate": "30.0101290111",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-31 19:40:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.35",
+        "label": "All Other - Criminal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.16768285793079,
+          30.004270291134397
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "A-26340-16",
+        "Crime": "THEFT OF GOODS UNDER 500 - 67S",
+        "LocationType": "SPECIALTY STORE",
+        "AddressName": "BEST BUY",
+        "AddressOfCrime": "37XX VETERANS, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.16768285793079",
+        "YCoordinate": "30.004270291134397",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-31 18:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.76",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1646114749,
+          30.0087781434
+        ]
+      },
+      "properties": {
+        "UCRGroup": "24",
+        "Class": "Vandalism",
+        "IRNumber": "A-26173-16",
+        "Crime": "SIMP CRIM DAMAGE UNDER 500",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressOfCrime": "38XX DIVISION ST, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1646114749",
+        "YCoordinate": "30.0087781434",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-31 14:18:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.59",
+        "label": "Vandalism"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1668361602,
+          30.0015103106
+        ]
+      },
+      "properties": {
+        "UCRGroup": "16",
+        "Class": "Motor Vehicle Theft",
+        "IRNumber": "A-26397-16",
+        "Crime": "UNAUTHORIZED USE OF MTR VEH",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressOfCrime": "37XX DIANE PL, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1668361602",
+        "YCoordinate": "30.0015103106",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-31 10:30:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.78",
+        "label": "Motor Vehicle Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1751048618,
+          30.0099185775
+        ]
+      },
+      "properties": {
+        "UCRGroup": "11",
+        "Class": "Burglary - Residential",
+        "IRNumber": "A-26049-16",
+        "Crime": "SIMPLE BURGLARY - 62C",
+        "LocationType": "PARKING LOT / GARAGE",
+        "AddressOfCrime": "39XX ACADIA ST, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1751048618",
+        "YCoordinate": "30.0099185775",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-31 02:30:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.22",
+        "label": "Burglary - Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1424316279,
+          30.0044623701
+        ]
+      },
+      "properties": {
+        "UCRGroup": "9",
+        "Class": "Assault - Simple",
+        "IRNumber": "A-25847-16",
+        "Crime": "SIMPLE BATTERY",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressOfCrime": "8XX BONNABEL, METAIRIE, LA 70005",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1424316279",
+        "YCoordinate": "30.0044623701",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-31 00:15:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.77",
+        "label": "Assault - Simple"
+      }
+    }
+  ]
+}

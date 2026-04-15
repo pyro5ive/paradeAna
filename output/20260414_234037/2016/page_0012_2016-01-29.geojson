@@ -1,0 +1,303 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1531514895,
+          30.0146870341
+        ]
+      },
+      "properties": {
+        "UCRGroup": "19",
+        "Class": "Driving Under the Influence (DUI)",
+        "IRNumber": "A-24966-16",
+        "Crime": "DRIVING WHILE INTOXICATED",
+        "AddressOfCrime": "W ESPLANADE DR & RIDGELAKE AV",
+        "Accuracy": "Intersection",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1531514895",
+        "YCoordinate": "30.0146870341",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-29 23:23:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.59",
+        "label": "Driving Under the Influence (DUI)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1856084667,
+          30.0049308889
+        ]
+      },
+      "properties": {
+        "UCRGroup": "19",
+        "Class": "Driving Under the Influence (DUI)",
+        "IRNumber": "A-24882-16",
+        "Crime": "OPER WHILE INTOX 2ND OFF",
+        "AddressOfCrime": "46XX VETERANS",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1856084667",
+        "YCoordinate": "30.0049308889",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-29 21:09:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.83",
+        "label": "Driving Under the Influence (DUI)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1605157332,
+          30.0069676457
+        ]
+      },
+      "properties": {
+        "UCRGroup": "21",
+        "Class": "Drugs / Narcotics Violation",
+        "IRNumber": "A-24858-16",
+        "Crime": "POSS OF DRUG PARAPHERNALIA",
+        "LocationType": "HWY/ROAD/ALLEY",
+        "AddressOfCrime": "N ARNOULT RD, METAIRIE, LA 70002",
+        "Accuracy": "Intersection",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1605157332",
+        "YCoordinate": "30.0069676457",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-29 20:40:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.32",
+        "label": "Drugs / Narcotics Violation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.181772807,
+          30.0157987268
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-14628-16",
+        "Crime": "THEFT UNAUTH USE  ACCESS CARD",
+        "LocationType": "SPECIALTY STORE",
+        "AddressOfCrime": "43XX W ESPLANADE AV, METAIRIE, LA 70005",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.181772807",
+        "YCoordinate": "30.0157987268",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-29 18:03:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.72",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1716195693,
+          29.9960690928
+        ]
+      },
+      "properties": {
+        "UCRGroup": "11",
+        "Class": "Burglary - Residential",
+        "IRNumber": "A-25396-16",
+        "Crime": "SIMPLE BURGLARY",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressOfCrime": "40XX DURAND ST, METAIRIE, LA 70001",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1716195693",
+        "YCoordinate": "29.9960690928",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-29 18:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.22",
+        "label": "Burglary - Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1259686824,
+          29.9975642837
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "A-24864-16",
+        "Crime": "THEFT UNDER $750",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressOfCrime": "7XX CARROLLTON AV, METAIRIE, LA 70005",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1259686824",
+        "YCoordinate": "29.9975642837",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-29 18:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.85",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1784246633,
+          29.9979342044
+        ]
+      },
+      "properties": {
+        "UCRGroup": "21",
+        "Class": "Drugs / Narcotics Violation",
+        "IRNumber": "A-24621-16",
+        "Crime": "POSS MARIJUANA 1ST OFFENSE",
+        "LocationType": "HWY/ROAD/ALLEY",
+        "AddressOfCrime": "42XX S I, METAIRIE, LA 70001",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1784246633",
+        "YCoordinate": "29.9979342044",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-29 16:05:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.51",
+        "label": "Drugs / Narcotics Violation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1726135843,
+          30.0056889964
+        ]
+      },
+      "properties": {
+        "UCRGroup": "22",
+        "Class": "Disorderly Conduct",
+        "IRNumber": "A-24615-16",
+        "Crime": "DOMESTIC DISTURBANCE",
+        "LocationType": "RESTAURANT",
+        "AddressOfCrime": "33XX CLEARY AV, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1726135843",
+        "YCoordinate": "30.0056889964",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-29 16:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.05",
+        "label": "Disorderly Conduct"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.15710062822265,
+          30.00306831098633
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "A-24417-16",
+        "Crime": "THEFT OF GOODS - 67S",
+        "LocationType": "DEPT / DISCOUNT STORE",
+        "AddressName": "DILLARD'S LAKESIDE",
+        "AddressOfCrime": "33XX VETERANS, ME, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.15710062822265",
+        "YCoordinate": "30.00306831098633",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-29 12:20:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.26",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1646687346,
+          30.0146797396
+        ]
+      },
+      "properties": {
+        "UCRGroup": "19",
+        "Class": "Driving Under the Influence (DUI)",
+        "IRNumber": "A-24135-16",
+        "Crime": "DRIVING WHILE INTOXICATED",
+        "AddressOfCrime": "W ESPLANADE ST & DIVISION AV",
+        "Accuracy": "Intersection",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1646687346",
+        "YCoordinate": "30.0146797396",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2016-01-29 03:03:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.81",
+        "label": "Driving Under the Influence (DUI)"
+      }
+    }
+  ]
+}

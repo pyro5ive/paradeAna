@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1636094255,
+          30.004008996
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-16644-17",
+        "Crime": "THEFT UNAUTH USE  ACCESS CARD",
+        "LocationType": "RESTAURANT",
+        "AddressOfCrime": "36XX VETERANS, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1636094255",
+        "YCoordinate": "30.004008996",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-19 21:15:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.53",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.15727168608316,
+          30.001249581576374
+        ]
+      },
+      "properties": {
+        "UCRGroup": "16",
+        "Class": "Motor Vehicle Theft",
+        "IRNumber": "B-15655-17",
+        "Crime": "THEFT AUTO OVER 1500 - 67A",
+        "LocationType": "PARKING LOT / GARAGE",
+        "AddressOfCrime": "28XX ATHANIA PK, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.15727168608316",
+        "YCoordinate": "30.001249581576374",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-19 10:54:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.38",
+        "label": "Motor Vehicle Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.182649412,
+          30.0129740043
+        ]
+      },
+      "properties": {
+        "UCRGroup": "9",
+        "Class": "Assault - Simple",
+        "IRNumber": "B-15491-17",
+        "Crime": "SIMPLE BATTERY",
+        "LocationType": "DRUG STORE / DR OFFICE/HOSP.",
+        "AddressOfCrime": "42XX HOUMA, METAIRIE, LA 70006",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.182649412",
+        "YCoordinate": "30.0129740043",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-19 03:30:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.71",
+        "label": "Assault - Simple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1225194037,
+          30.0128748621
+        ]
+      },
+      "properties": {
+        "UCRGroup": "11",
+        "Class": "Burglary - Residential",
+        "IRNumber": "B-15623-17",
+        "Crime": "SIMPLE BURGLARY - 62C",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressOfCrime": "15XX ORPHEUM AV, METAIRIE, LA 70005",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1225194037",
+        "YCoordinate": "30.0128748621",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-19 00:45:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "2.00",
+        "label": "Burglary - Residential"
+      }
+    }
+  ]
+}

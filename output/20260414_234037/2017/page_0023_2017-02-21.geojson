@@ -1,0 +1,217 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1806597252,
+          30.0101817407
+        ]
+      },
+      "properties": {
+        "UCRGroup": "17",
+        "Class": "Burglary from Motor Vehicle",
+        "IRNumber": "B-18336-17",
+        "Crime": "BURGLARY AUTO 100 - 500",
+        "LocationType": "PARKING LOT / GARAGE",
+        "AddressOfCrime": "38XX HOUMA, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1806597252",
+        "YCoordinate": "30.0101817407",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-21 23:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.55",
+        "label": "Burglary from Motor Vehicle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1520355687,
+          30.0010788907
+        ]
+      },
+      "properties": {
+        "UCRGroup": "11",
+        "Class": "Burglary - Residential",
+        "IRNumber": "B-18172-17",
+        "Crime": "SIMPLE BURGLARY - 62B",
+        "LocationType": "DEPT / DISCOUNT STORE",
+        "AddressName": "K-MART",
+        "AddressOfCrime": "29XX VETERANS, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1520355687",
+        "YCoordinate": "30.0010788907",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-21 21:41:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.41",
+        "label": "Burglary - Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1733497684,
+          30.0127298789
+        ]
+      },
+      "properties": {
+        "UCRGroup": "11",
+        "Class": "Burglary - Residential",
+        "IRNumber": "B-17972-17",
+        "Crime": "SIMPLE BURGLARY - 62C",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressOfCrime": "42XX COURTLAND DR, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1733497684",
+        "YCoordinate": "30.0127298789",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-21 18:15:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.17",
+        "label": "Burglary - Residential"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.15710062822265,
+          30.00306831098633
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-18191-17",
+        "Crime": "THEFT OF GOODS - 67S",
+        "LocationType": "DEPT / DISCOUNT STORE",
+        "AddressName": "MIMI'S KIDS BOUTIQUE",
+        "AddressOfCrime": "33XX VETERANS, ME, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.15710062822265",
+        "YCoordinate": "30.00306831098633",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-21 15:25:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.26",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1666264043,
+          29.9988742166
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "B-22870-17",
+        "Crime": "THEFT UNDER $750",
+        "LocationType": "OTHER / UNKNOWN",
+        "AddressOfCrime": "37XX SARATOGA DR, METAIRIE, LA 70002",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1666264043",
+        "YCoordinate": "29.9988742166",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-21 13:40:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.86",
+        "label": "Theft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1462177987,
+          30.0020136284
+        ]
+      },
+      "properties": {
+        "UCRGroup": "27",
+        "Class": "All Other - Criminal",
+        "IRNumber": "V36559",
+        "Crime": "LIABILITY SECURITY REQUIRED",
+        "AddressOfCrime": "20XX VETERANS",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1462177987",
+        "YCoordinate": "30.0020136284",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-21 09:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "0.61",
+        "label": "All Other - Criminal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1763972878,
+          29.9981928001
+        ]
+      },
+      "properties": {
+        "UCRGroup": "12",
+        "Class": "Theft",
+        "IRNumber": "C-01129-17",
+        "Crime": "THEFT $750-$5000",
+        "LocationType": "RESIDENCE/HOME",
+        "AddressName": "WILLOWOOD APTS.",
+        "AddressOfCrime": "26XX PASADENA AV, METAIRIE, LA 70001",
+        "Accuracy": "Address",
+        "TCoordinate": "0.0",
+        "XCoordinate": "-90.1763972878",
+        "YCoordinate": "29.9981928001",
+        "XOffset": "1",
+        "YOffset": "0",
+        "GeoCoded": "1",
+        "MoStamp": "0",
+        "DateTime": "2017-02-21 00:00:00.000",
+        "Agency": "Jefferson Parish Sheriff's Office",
+        "Distance": "1.39",
+        "label": "Theft"
+      }
+    }
+  ]
+}
