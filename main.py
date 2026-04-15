@@ -3,14 +3,14 @@ import os
 import json
 import punq
 
+from abstraction.aggregated_exporter_base import AggregatedExporterBase
 from abstraction.api_client_base import ApiClientBase
-from abstraction.event_exporter_base import EventExporterBase
 from abstraction.payload_factory_base import PayloadFactoryBase
 from abstraction.paging_coordinator_base import PagingCoordinatorBase
+from aggregated_event_geojson_exporter import AggregatedEventGeoJsonExporter
 from crime_api_client import CrimeApiClient
 from date_range_payload_factory import DateRangePayloadFactory
 from date_range_paging_proxy import DateRangePagingProxy
-from event_geojson_exporter import EventGeoJsonExporter
 from models.paging_result import PagingResult
 
 
@@ -35,7 +35,7 @@ container.register(
 )
 
 paging_proxy: PagingCoordinatorBase = container.resolve(PagingCoordinatorBase)
-exporter: EventExporterBase = EventGeoJsonExporter("output")
+exporter: AggregatedExporterBase = AggregatedEventGeoJsonExporter("output")
 
 dateRanges: list[dict[str, str]] = [
     {"start": "2016-01-26", "end": "2016-02-09"},
@@ -71,3 +71,7 @@ for dateRange in dateRanges:
             break
 
         current_end_text = result.next_end_date
+
+filePath: str = exporter.Finalize()
+
+print(filePath)
