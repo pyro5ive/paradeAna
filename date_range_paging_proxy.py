@@ -66,25 +66,16 @@ class DateRangePagingProxy(PagingCoordinatorBase):
         )
     #--------------------------#
 
-    def test_range(this, request_date: datetime) -> ApiCallResult:
+    def request_day(this, request_date: datetime) -> ApiCallResult:
         payload: dict = this.payload_factory.build_payload(request_date, request_date)
 
         this.logger.info(
-            "Testing range %s -> %s",
+            "Requesting range %s -> %s",
             this.format_iso_date(request_date),
             this.format_iso_date(request_date)
         )
 
-        result: ApiCallResult = this.api_client.execute(payload)
-
-        this.logger.info(
-            "Range %s -> %s returned %s rows",
-            this.format_iso_date(request_date),
-            this.format_iso_date(request_date),
-            result.returned_count
-        )
-
-        return result
+        return this.api_client.execute(payload)
     #--------------------------#
 
     def collect_next(this, overall_start_text: str, current_end_text: str) -> PagingResult:
@@ -95,10 +86,8 @@ class DateRangePagingProxy(PagingCoordinatorBase):
             this.logger.info("No more ranges left to collect")
             return this.create_complete_result()
 
-        result: ApiCallResult = this.test_range(current_end)
-
         return this.create_paging_result(
             request_date=current_end,
-            api_call_result=result
+            api_call_result=this.request_day(current_end)
         )
     #--------------------------#
