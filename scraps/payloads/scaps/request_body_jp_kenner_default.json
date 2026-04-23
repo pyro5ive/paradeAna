@@ -1,0 +1,106 @@
+{
+    "buffer": {
+        "enabled": false,
+        "restrictArea": false,
+        "value": []
+    },
+    "date": {
+        "start": "04/16/2026",
+        "end": "04/20/2026",
+        "quick": ""
+    },
+    "agencies": [],
+    "layers": {
+        "selection": [null, null, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+                "selected": false
+            }, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }, {
+                "selected": true
+            }
+        ]
+    },
+    "location": {
+        "bounds": {
+            "east": -89.99011550062912,
+            "north": 30.032224381800784,
+            "south": 29.92203966756422,
+            "west": -90.31112227553146
+        },
+        "lat": 29.977132024682504,
+        "lng": -90.15061888808029,
+        "zoom": 13
+    },
+    "analyticLayers": {
+        "density": {
+            "selected": false,
+            "transparency": 60
+        }
+    }
+}
